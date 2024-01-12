@@ -6,7 +6,7 @@
 
 [Source Code of V1](https://github.com/FatihBARACKILIC/codelab-namer-app)
 
-[Source Code of V2](https://dartpad.dev/?id=e7076b40fb17a0fa899f9f7a154a02e8)
+[Source Code of V2](https://github.com/FatihBARACKILIC/codelab-namer-app/tree/v2)
 
 [Codelabs](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
 
